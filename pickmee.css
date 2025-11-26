@@ -1,0 +1,19 @@
+body {
+    background-color: #f7be3e;
+}
+
+.row{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    margin-top: 150px;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    margin-top: 0px;
+}
